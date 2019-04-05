@@ -1,0 +1,57 @@
+*{
+    margin: 0 auto;
+}
+header{
+    width: 80%;
+    height: 150px;
+    border: 1px solid white;
+}
+nav{
+    width: 80%;
+    height: 30px;
+    border: 1px solid white;
+}
+section{
+    width: 80%;
+    height: 700px;
+    border: 1px solid white;
+}
+footer{
+    width: 80%;
+    height: 30px;
+    border: 1px solid white;
+}
+iframe{
+    width: 97%;
+    height: 600px;
+    padding: 20px;
+}
+#menu{
+    padding: 0;
+}
+#menu li{
+    display: inline;
+}
+#menu li a{
+    text-decoration: none;
+    float: left;
+    padding: 6px 50px 6px 50px;
+    font-size: 14px;
+    color: black;
+    font-family: arial;
+}
+#menu li a:hover{
+    background: rebeccapurple;
+}
+#menu li a:active{
+    background:blueviolet;
+}
+.caja{
+    width: 150px;
+    height: 20px;
+    padding-left: 10px;
+    
+}
+body{
+    background-image: url(imagenes/fondo.jpg);
+}

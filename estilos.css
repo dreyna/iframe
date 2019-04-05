@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+}
+  body{
+      background: black;
+  }
+  #contenedor{
+      background: green;
+      width: 900px;
+      height: 800px;
+  }
+  #cabecera{
+      background: red;
+      width: 900px;
+      height: 100px;
+  }
+  #menu{
+      background: blue;
+      width: 900px;
+      height: 30px;
+  }
+  #cuerpo{
+      background: palegreen;
+      width: 900px;
+      height: 770px;
+  }
+  #pie{
+      background: green;
+      width: 900px;
+      height: 800px;
+  }
